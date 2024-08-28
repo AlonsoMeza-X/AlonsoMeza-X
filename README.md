@@ -6,7 +6,7 @@
 
 ⚡~Probando codigos~⚡
 
-Voy agregar un imagen ! (https://w7.pngwing.com/pngs/585/436/png-transparent-pokemon-pikachu-illustration-icon-pikachu-background-mammal-food-vertebrate-thumbnail.png)
+Voy agregar un imagen ![](https://w7.pngwing.com/pngs/585/436/png-transparent-pokemon-pikachu-illustration-icon-pikachu-background-mammal-food-vertebrate-thumbnail.png)
 
 
 <!--
