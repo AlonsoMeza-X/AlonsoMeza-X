@@ -1,53 +1,59 @@
-<h1 align="left">"Good morning!"</h1>
-
-###
-
-<p align="left">"What do you mean? Do you wish me a good morning, or do you mean that it is a good morning whether I want it or not, or that you feel good this morning, or that it is a morning in which it is good to be good?"<br><br>My name is Alonso Meza, and I am a backend developer. I live in Chile.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2024<br>📚 Currently Learning: JavaScript and advancing my backend development skills.<br>🎯 Goals: To deepen my knowledge and expertise in backend development. Currently enrolled in the One Oracle course.<br>🎲 Fun Fact: I'm passionate about trekking and biking, and I share my home with three wonderful cats.</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-</div>
+<h1 align="center">👋 ¡Hola! Soy Alonso Meza</h1>
+<h3 align="center">Backend Developer de Chile 🇨🇱</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlonsoMeza-X&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlonsoMeza-X&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://w7.pngwing.com/pngs/585/436/png-transparent-pokemon-pikachu-illustration-icon-pikachu-background-mammal-food-vertebrate-thumbnail.png" width="100" style="border-radius: 50%"/>
 </div>
 
 ###
-![](https://w7.pngwing.com/pngs/585/436/png-transparent-pokemon-pikachu-illustration-icon-pikachu-background-mammal-food-vertebrate-thumbnail.png)
+
+### 🔥 **Mi Filosofía**
+> *"What do you wish me a good morning? [...] It is a morning in which it is good to be good!"*  
+> – J.R.R. Tolkien (adaptado)
+
+---
+
+### 🛠 **Tech Stack Profesional**
+
+#### **Backend Core**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
+#### **Web & Tools**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+#### **IDEs**
+![IntelliJ](https://img.shields.io/badge/-IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📈 **Mi Trajectoria**
+<div align="center">
+  <a href="https://github.com/AlonsoMeza-X">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=AlonsoMeza-X&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlonsoMeza-X&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+  </a>
+</div>
+
+---
+
+### 🎓 **Sobre Mí**
+- 🚀 **En Formación**: Oracle ONE + Alura Latam
+- 🔭 **Foco Actual**: Especialización en Desarrollo Backend
+- 🌱 **Aprendiendo**: Arquitectura de Microservicios y Patrones de Diseño
+- 🐱 **Dato Curioso**: Padre de 3 gatos 🐈 y amante del trekking 🏔️
+
+---
+
+### 📫 **Conectemos**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![Gmail](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:tu@email.com)
+[![GitHub](https://img.shields.io/badge/-Portafolio-181717?logo=github&logoColor=white)](https://alonsomeza-x.github.io)
