@@ -1,5 +1,5 @@
-<h1 align="center">👋 ¡Hola! Soy Alonso Meza</h1>
-<h3 align="center">Backend Developer de Chile 🇨🇱</h3>
+<h1 align="center">👋 Hello! I'm Alonso Meza</h1>
+<h3 align="center">Backend Developer from Chile 🇨🇱</h3>
 
 ###
 
@@ -9,13 +9,13 @@
 
 ###
 
-### 🔥 **Mi Filosofía**
+### 🔥 **My Philosophy**
 > *"What do you wish me a good morning? [...] It is a morning in which it is good to be good!"*  
-> – J.R.R. Tolkien (adaptado)
+> – J.R.R. Tolkien (adapted)
 
 ---
 
-### 🛠 **Tech Stack Profesional**
+### 🛠 **Tech Stack**
 
 #### **Backend Core**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -35,7 +35,7 @@
 
 ---
 
-### 📈 **Mi Trajectoria**
+### 📈 **GitHub Analytics**
 <div align="center">
   <a href="https://github.com/AlonsoMeza-X">
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=AlonsoMeza-X&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
@@ -45,15 +45,15 @@
 
 ---
 
-### 🎓 **Sobre Mí**
-- 🚀 **En Formación**: Oracle ONE + Alura Latam
-- 🔭 **Foco Actual**: Especialización en Desarrollo Backend
-- 🌱 **Aprendiendo**: Arquitectura de Microservicios y Patrones de Diseño
-- 🐱 **Dato Curioso**: Padre de 3 gatos 🐈 y amante del trekking 🏔️
+### 🎓 **About Me**
+- 🚀 **Current Path**: Oracle ONE + Alura Latam
+- 🔭 **Focus**: Backend Development Specialization
+- 🌱 **Learning**: Microservices Architecture & Design Patterns
+- 🐱 **Fun Fact**: Proud parent of 3 cats 🐈 and avid trekker 🏔️
 
 ---
 
-### 📫 **Conectemos**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Gmail](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:tu@email.com)
-[![GitHub](https://img.shields.io/badge/-Portafolio-181717?logo=github&logoColor=white)](https://alonsomeza-x.github.io)
+### 📫 **Let's Connect**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Gmail](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/-Portfolio-181717?logo=github&logoColor=white)](https://alonsomeza-x.github.io)
