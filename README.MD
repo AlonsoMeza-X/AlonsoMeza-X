@@ -4,7 +4,7 @@
 ###
 
 <div align="center">
-  <img src="https://e.rpp-noticias.io/medium/2016/08/05/212312qrfgif.gif" width="100" style="border-radius: 8px" alt="coding gif"/>
+  <img src="https://e.rpp-noticias.io/medium/2016/08/05/212312qrfgif.gif" width="300" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1)" alt="coding animation"/>
 </div>
 
 ###
