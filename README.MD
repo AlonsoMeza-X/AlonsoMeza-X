@@ -54,6 +54,6 @@
 ---
 
 ### 📫 **Let's Connect**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:your@email.com)
-[![GitHub](https://img.shields.io/badge/-Portfolio-181717?logo=github&logoColor=white)](https://alonsomeza-x.github.io)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alonso-javier-meza-ercoli)
+[![Gmail](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:a.meza.ercoli@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Repositories-181717?logo=github&logoColor=white)](https://github.com/AlonsoMeza-X?tab=repositories)
