@@ -4,7 +4,7 @@
 ###
 
 <div align="center">
-  <img src="https://w7.pngwing.com/pngs/585/436/png-transparent-pokemon-pikachu-illustration-icon-pikachu-background-mammal-food-vertebrate-thumbnail.png" width="100" style="border-radius: 50%"/>
+  <img src="https://e.rpp-noticias.io/medium/2016/08/05/212312qrfgif.gif" width="100" style="border-radius: 8px" alt="coding gif"/>
 </div>
 
 ###
