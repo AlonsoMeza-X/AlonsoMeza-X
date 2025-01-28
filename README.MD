@@ -2,24 +2,19 @@
 <h3 align="center">Backend Developer from Chile 🇨🇱</h3>
 
 ###
-
-<h1 align="center">👋 Hello! I'm Alonso Meza</h1>
-<h3 align="center">Backend Developer from Chile 🇨🇱</h3>
-
-###
 transition: transform 0.3s ease;
 &:hover {
   transform: scale(1.05);
 }
 
-<div align="center" style="display: flex; justify-content: center; gap: 30px; align-items: center">
-  <div style="border-radius: 15px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.1)">
-    <img src="https://e.rpp-noticias.io/medium/2016/08/05/212312qrfgif.gif" width="200" alt="coding gif"/>
-  </div>
+<div align="center" style="display: flex; justify-content: center; gap: 30px; align-items: center; margin: 2rem 0">
+  <a href="https://github.com/AlonsoMeza-X" style="border-radius: 15px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://e.rpp-noticias.io/medium/2016/08/05/212312qrfgif.gif" width="250" alt="coding activity animation"/>
+  </a>
   
-  <div style="border-radius: 15px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.1)">
-    <img src="https://preview.redd.it/azuzouc9ix1a1.jpg?width=640&crop=smart&auto=webp&s=a08499e357a4c44233ab9ceeba9858370cd4d1e4" width="200" alt="pikachu art" />
-  </div>
+  <a href="https://www.linkedin.com/in/alonso-javier-meza-ercoli" style="border-radius: 15px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://preview.redd.it/azuzouc9ix1a1.jpg?width=640&crop=smart&auto=webp&s=a08499e357a4c44233ab9ceeba9858370cd4d1e4" width="250" alt="developer mascot" />
+  </a>
 </div>
 
 ###
